@@ -1,0 +1,25 @@
+
+.header {
+  width: 100%;
+  height: 5%;
+  display: flex;/*重要*/
+	justify-content: space-between;/*重要*/
+}
+
+.main {
+  width: 100%;
+  height: 90%;
+  position: relative;
+  
+}
+
+.footer {
+  width: 100%;
+  height: 5%;
+  position: fixed;
+  margin: auto;
+  bottom: 0;
+  display: flex;/*重要*/
+	justify-content: space-between;/*重要*/
+}
+
