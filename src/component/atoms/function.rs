@@ -1,11 +1,10 @@
-
+use stylist::style;
 use wasm_bindgen;
-use yew::{function_component, html};
+use yew::{Callback, function_component, html, Html, use_state};
+
 
 #[function_component(RoundCastChart)]
-
 pub fn round_cast_chart() -> Html {
-
     let stylesheet = style!(
         r#"
             position: relative;            
@@ -57,16 +56,14 @@ pub fn round_cast_chart() -> Html {
         
         "#
     )
-    .unwrap();
+        .unwrap();
     //let string_style="left:-3000px;";
-   
-    let g_src_array = ["left:0;", "left:-1000px;", "left:-2000px;", "left:-3000px;"];
-    
-   
-  
-    let counter=use_state(||0);
 
-   
+    let g_src_array = ["left:0;", "left:-1000px;", "left:-2000px;", "left:-3000px;"];
+
+
+    let counter = use_state(|| 0);
+
     html!(
         <div class={stylesheet}>
 
@@ -79,11 +76,11 @@ pub fn round_cast_chart() -> Html {
             </div>
 
             <div class="buttons">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
+                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(0))}></span>
+                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(1))}></span>
+                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(2))}></span>
+                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(3))}></span>
+
             </div>
 
         </div>
