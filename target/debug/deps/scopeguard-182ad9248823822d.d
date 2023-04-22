@@ -1,0 +1,5 @@
+d:\code\Rust\Program\htdocs\target\debug\deps\scopeguard-182ad9248823822d.rmeta: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\scopeguard-1.1.0\src\lib.rs
+
+d:\code\Rust\Program\htdocs\target\debug\deps\scopeguard-182ad9248823822d.d: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\scopeguard-1.1.0\src\lib.rs
+
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\scopeguard-1.1.0\src\lib.rs:

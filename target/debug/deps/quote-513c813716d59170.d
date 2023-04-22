@@ -1,0 +1,13 @@
+d:\code\Rust\Program\htdocs\target\debug\deps\quote-513c813716d59170.rmeta: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs
+
+d:\code\Rust\Program\htdocs\target\debug\deps\libquote-513c813716d59170.rlib: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs
+
+d:\code\Rust\Program\htdocs\target\debug\deps\quote-513c813716d59170.d: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs
+
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\lib.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ext.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\format.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\ident_fragment.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\to_tokens.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\runtime.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.21\src\spanned.rs:

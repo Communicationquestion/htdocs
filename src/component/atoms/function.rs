@@ -1,7 +1,5 @@
 use stylist::style;
-use wasm_bindgen;
-use yew::{Callback, function_component, html, Html, use_state};
-
+use yew::{function_component, html, use_state, Callback};
 
 #[function_component(RoundCastChart)]
 pub fn round_cast_chart() -> Html {
@@ -56,11 +54,10 @@ pub fn round_cast_chart() -> Html {
         
         "#
     )
-        .unwrap();
+    .unwrap();
     //let string_style="left:-3000px;";
 
     let g_src_array = ["left:0;", "left:-1000px;", "left:-2000px;", "left:-3000px;"];
-
 
     let counter = use_state(|| 0);
 
