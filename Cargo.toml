@@ -8,7 +8,9 @@ edition = "2021"
 [dependencies]
 yew = "0.19"
 wasm-bindgen = "0.2"
-stylist={version="0.10.0",features=["yew"]}
+stylist = { version = "0.10.0", features = ["yew"] }
 rand = "0.3.17"
 crossbeam = "0.8"
 crossbeam-channel = "0.5"
+gloo = "0.8.0"
+gloo-timers = "0.2.6"

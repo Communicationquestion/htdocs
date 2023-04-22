@@ -1,0 +1,11 @@
+D:\code\Rust\Program\htdocs\target\wasm32-unknown-unknown\debug\deps\serde_wasm_bindgen-da1f3790a069de45.rmeta: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\lib.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\de.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\error.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\ser.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\../README.md
+
+D:\code\Rust\Program\htdocs\target\wasm32-unknown-unknown\debug\deps\libserde_wasm_bindgen-da1f3790a069de45.rlib: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\lib.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\de.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\error.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\ser.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\../README.md
+
+D:\code\Rust\Program\htdocs\target\wasm32-unknown-unknown\debug\deps\serde_wasm_bindgen-da1f3790a069de45.d: C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\lib.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\de.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\error.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\ser.rs C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\../README.md
+
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\lib.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\de.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\error.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\ser.rs:
+C:\Users\fish\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-wasm-bindgen-0.4.5\src\../README.md:

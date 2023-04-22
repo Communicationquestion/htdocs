@@ -1,5 +1,6 @@
+use gloo_timers::callback::Timeout;
 use stylist::style;
-use yew::{function_component, html, use_state, Callback};
+use yew::{function_component, html, use_state};
 
 #[function_component(RoundCastChart)]
 pub fn round_cast_chart() -> Html {
@@ -56,15 +57,26 @@ pub fn round_cast_chart() -> Html {
     )
     .unwrap();
     //let string_style="left:-3000px;";
-
     let g_src_array = ["left:0;", "left:-1000px;", "left:-2000px;", "left:-3000px;"];
+    let counter: yew::UseStateHandle<usize> = use_state(|| 0);
+    let counter_x = counter.clone();
 
-    let counter = use_state(|| 0);
+    let timeout = Timeout::new(1_000, move || {
+        // Do something after the one second timeout is up!
+        let counter = counter.clone();
+        if *counter > 2 {
+            counter.set(0); // resets the counter to 0 after the first 3 times it is called.
+        } else {
+            counter.set(*counter + 1);
+        }
+    });
+
+    timeout.forget();
 
     html!(
         <div class={stylesheet}>
 
-            <div class="wrap"  style={g_src_array[*counter]}>
+            <div class="wrap"  style={g_src_array[*counter_x]}>
 
                 <img src="../../../static/1.jpg" alt=""/>
                 <img src="../../../static/2.jpg" alt=""/>
@@ -73,10 +85,10 @@ pub fn round_cast_chart() -> Html {
             </div>
 
             <div class="buttons">
-                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(0))}></span>
-                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(1))}></span>
-                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(2))}></span>
-                <span onclick = {let counter = counter.clone();Callback::from(move |_| counter.set(3))}></span>
+                <span ></span>
+                <span ></span>
+                <span ></span>
+                <span ></span>
 
             </div>
 
