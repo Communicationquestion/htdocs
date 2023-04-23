@@ -9,9 +9,6 @@ use crate::component::atoms::text::PText;
 use crate::component::atoms::top::Toplink;
 const STYLE_FILE: &str = include_str!("css/divcss/div.css");
 
-
-
-
 #[function_component(App)]
 
 pub fn app() -> Html {

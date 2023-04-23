@@ -42,6 +42,9 @@ pub fn round_cast_chart() -> Html {
             .buttons span {
                
                 margin-left: 50px;
+
+
+                
                 display: inline-block;
                 width: 10px;
                 height: 10px;
